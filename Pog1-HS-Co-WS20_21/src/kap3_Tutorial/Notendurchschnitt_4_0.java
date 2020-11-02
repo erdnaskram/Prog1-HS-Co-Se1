@@ -1,4 +1,4 @@
-package Tutorial;
+package kap3_Tutorial;
 
 import java.util.Scanner;
 
