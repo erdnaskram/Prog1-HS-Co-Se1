@@ -1,6 +1,6 @@
 3. Bestimmen Sie den Wert jeder Variablen nach Ausfuehrung aller Anweisungen.
     Annahme: Zu Beginn der Ausfuehrung haben alle Variablen den Wert 5:
-    (Eigene Annahme: alle Variablen sind als float deklariert.)
+    (Eigene Annahme: alle Variablen sind als float deklariert & die Variablen werden einmalig initialisiert)
         a. product *= x++;
             product: 25
             x: 6
