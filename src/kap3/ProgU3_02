@@ -1,0 +1,14 @@
+3. Ermitteln Sie die Ausgabe des Programms für die folgenden Code Fragmente,
+falls x den Wert 9 und y den Wert 11 sowie falls x den Wert 11 und y den Wert 9 haben.:
+        a. x=9 y=11
+            *****
+            $$$$$
+           x=11 y=9
+            #####
+            $$$$$
+
+        b. x=9 y=11
+            *****
+           x=11 y=9
+            #####
+            $$$$$
