@@ -23,6 +23,5 @@ public class ProgU3_05 {
         }
 
         System.out.println("summe = " + summe);
-
     }
 }
