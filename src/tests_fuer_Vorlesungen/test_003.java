@@ -3,7 +3,6 @@ package tests_fuer_Vorlesungen;
 public class test_003 {
     public static void main(String[] args) {
         int x =0;
-
         do{
             if (x==0)
                 x=7;

@@ -8,5 +8,6 @@ public class test_002 {
             res=cnt;
 
         System.out.println("res = " + res);
+
     }
 }

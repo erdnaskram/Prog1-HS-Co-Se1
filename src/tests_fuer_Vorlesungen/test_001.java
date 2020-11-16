@@ -7,5 +7,6 @@ public class test_001 {
         i = c;
         System.out.println("i: " + i);
         System.out.println("c: " + c);
+
     }
 }
