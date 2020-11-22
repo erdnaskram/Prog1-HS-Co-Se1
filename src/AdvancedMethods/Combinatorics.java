@@ -33,7 +33,7 @@ public class Combinatorics {
         return result;
     }
 
-    public static float kombinationMw(int n /*Objekte*/, int k) {
+    public static float kombinationMw(int n , int k) {
         // K = Slots
         // n = Objekte
         float result;
