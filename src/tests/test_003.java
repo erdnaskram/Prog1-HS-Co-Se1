@@ -1,4 +1,4 @@
-package tests_fuer_Vorlesungen;
+package tests;
 
 public class test_003 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package tests_fuer_Vorlesungen;
+package tests;
 
 import java.util.Scanner;
 

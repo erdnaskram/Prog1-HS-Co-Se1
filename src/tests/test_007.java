@@ -1,6 +1,4 @@
-package tests_fuer_Vorlesungen;
-
-import AdvancedMethods.AdvacedMath;
+package tests;
 
 public class test_007 {
     public static void main(String[] args) {
