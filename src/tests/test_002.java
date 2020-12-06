@@ -9,5 +9,14 @@ public class test_002 {
 
         System.out.println("res = " + res);
 
+        float f = (float) 3.5;
+
+        System.out.println((int) f);
+
+        String[] test = {"m", "n"};
+        String a = test[0];
+        test[0] = "b";
+        System.out.println("a = " + a);
+
     }
 }

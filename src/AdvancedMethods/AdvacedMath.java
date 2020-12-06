@@ -17,4 +17,7 @@ public class AdvacedMath {
         }
         return result;
     }
+
+
+
 }

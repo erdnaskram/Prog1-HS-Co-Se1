@@ -33,8 +33,9 @@ else
     System.out.println(“Age is less than 65”);
 
 
-f) WHAT???
-int x =1, total;
+f)
+x = 1;
+total = 1;
 while ( x <= 10 ) {
     total += x; ++x;
 }
