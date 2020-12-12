@@ -16,7 +16,7 @@ public class ProgU4_04 {
         String space = "";
 
 
-        System.out.println("\nMoin und Willkommen beim Tabellenkalkulator 1000 ^^"
+        System.out.println("\nMoin und Willkommen beim Tabellenkalkulator 1000 ^^ "
                 + "\nGeben sie einen Zahl für die Zeilen ein:");
         lines = sc.nextInt();
 
