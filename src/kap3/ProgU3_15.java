@@ -17,7 +17,7 @@ public class ProgU3_15 {
         double input = 0;
         boolean retry;
 
-        System.out.println("\nMoin und Willkommen beim Rechenaufgaben Generator ^^");
+        System.out.println("\nMoin und Willkommen beim Rechenaufgaben Generator ^^ ");
 
 
         while (true) {
