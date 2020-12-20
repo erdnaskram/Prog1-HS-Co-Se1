@@ -1,0 +1,13 @@
+Finden und korrigieren Sie die folgenden Fehler:
+a)
+int ARRAY_SIZE = 10;
+ARRAY_SIZE = 34;
+
+b)
+int b[] = new int [10];
+    for (int i = 0;i < b.length; i++)
+        b[ i ] = 1;
+
+c)
+int a[][] = { {1 , 2 }, {3 , 4 } };
+a[1][1] = 5;
