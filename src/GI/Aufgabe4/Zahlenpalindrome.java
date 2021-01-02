@@ -20,6 +20,21 @@ public class Zahlenpalindrome {
         }
     }
 
+    public static int umdrehenv2(int n, int nu){
+
+        if (nu == 0){
+            nu = (nu+n%10);
+        }else{
+            nu = (nu+n%10)*10;
+        }
+        int rest  = n/10;
+        if (rest > 0){
+            return umdrehen(rest,nu);
+        } else {
+            return nu;
+        }
+    }
+
     public static int einhundertneunundsechzig(int n){
         int zahlenpalindrom = n + umdrehen(n,0);
         int invert = umdrehen(zahlenpalindrom,0);
