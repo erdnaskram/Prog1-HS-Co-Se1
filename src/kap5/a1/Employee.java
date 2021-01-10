@@ -1,4 +1,4 @@
-package kap5;
+package kap5.a1;
 
 public class Employee {
     public static void main(String[] args) {
