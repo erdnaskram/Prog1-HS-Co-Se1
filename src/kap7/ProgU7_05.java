@@ -38,7 +38,6 @@ public class ProgU7_05 {
             }
         }
 
-
         System.out.println("Satz: \n");
         for (String s : satz) {
             System.out.print(s + " ");
