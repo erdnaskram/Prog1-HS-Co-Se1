@@ -25,7 +25,6 @@ public class ProgP1_11 {
             } else if (sortedNumberArray[sortedNumberArray.length / 2] < elem) {
                 int [] newArray = new int[sortedNumberArray.length / 2];
 
-
                 return sortedNumberArray.length / 2;
 
             }

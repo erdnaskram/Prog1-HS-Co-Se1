@@ -2,6 +2,8 @@ package AdvancedMethods;
 
 public class Combinatorics {
 
+    int a = 5;
+
     public static float permutationOw(int n) {
         float result;
         result = (float) AdvacedMath.factorial(n);
@@ -29,7 +31,7 @@ public class Combinatorics {
 
     public static float kombinationOw(int n, int k) {
         float result;
-        result = (float) (AdvacedMath.specialFactorial(n, n-k)/AdvacedMath.factorial(k));
+        result = (float) (AdvacedMath.specialFactorial(n, n-k)/ AdvacedMath.factorial(k));
         return result;
     }
 
@@ -38,7 +40,7 @@ public class Combinatorics {
         // n = Objekte
         float result;
         int f = n + k - 1;
-        result = (float) (AdvacedMath.specialFactorial(f, f-k)/AdvacedMath.factorial(k));
+        result = (float) (AdvacedMath.specialFactorial(f, f-k)/ AdvacedMath.factorial(k));
         return result;
     }
 
